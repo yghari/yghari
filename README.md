@@ -1,14 +1,12 @@
-### Hi there 👋
+### Hey there 👋, I'm Youness Ghari.
 
-Hey there, I'm Youness Ghari.
-
-🔭 I was a student at 1337 and now im integrated in Software Engineering Programme - ALX .
+🔭 I was a student at 1337(42 network) and now im integrated in Software Engineering Programme - ALX .
 
 🌱 I’m currently learning the C language , python, HTML , CSS, SQL and JS . 
 
 📫 Reach me at ghariyouness90@gmail.com
 
-42 CURSUS 
+### 42 CURSUS :
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/yghari" alt="yghari's 42 stats" /></a>
 
@@ -18,9 +16,13 @@ Hey there, I'm Youness Ghari.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+
   
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/yghari=DenverCoder1)](https://git.io/streak-stats)
