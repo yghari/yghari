@@ -28,3 +28,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yghari&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yghari&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github.com/yghari/yghari/blob/main/78704119funny-homer-computer-animated-gif-38.gif)
