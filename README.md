@@ -29,4 +29,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yghari&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yghari&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github.com/yghari/yghari/blob/main/78704119funny-homer-computer-animated-gif-38.gif)
