@@ -35,4 +35,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yghari&show_icons=true&bg_color=00000000) -->
 
+## Github Stats
+
+<img align="left" alt="your-github-stats" src="https://github-readme-stats.vercel.app/api?username=yghari&show_icons=true&hide_border=true" />
+
+
 ![](https://github.com/yghari/yghari/blob/main/78704119funny-homer-computer-animated-gif-38.gif)
