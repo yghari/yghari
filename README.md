@@ -8,7 +8,7 @@
   <a href="https://dev.to/yghari"><img src="https://img.shields.io/badge/-DEV-0A0A0A?style=flat-square&logo=Dev.to&logoColor=white" alt="DEV.to"></a>
 </p>
 
-<p align="center">I'm a software engineer with experience in C , Python, Java, and C++. In my free time, I enjoy contributing to open source projects and building my own personal projects.</p>
+<p align="center">I'm a Web developer with experience in C , Python, Java, and C++. In my free time, I enjoy contributing to open source projects and learn new things .</p>
 
 ---
 
