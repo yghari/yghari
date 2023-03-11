@@ -27,8 +27,8 @@
 
 ### 📚 42 CURSUS :
 
-<!-- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yghari" alt="yghari's 42 stats" /></a>
- -->
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/yghari" alt="yghari's 42 stats" /></a>
+
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
