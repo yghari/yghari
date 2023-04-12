@@ -55,9 +55,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yghari&theme=dark)](https://git.io/streak-stats)
 
-<!-- ## Github Stats
+## Github Stats
 
-<img align="left" alt="your-github-stats" src="https://github-readme-stats.vercel.app/api?username=yghari&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="your-github-stats" src="https://github-readme-stats.vercel.app/api?username=yghari&show_icons=true&hide_border=true" />
 
 ## Profile Visitors
 
