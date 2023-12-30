@@ -16,7 +16,7 @@
 
 - Python
 - C
-- C++
+- JS
 
 ## 💻 Projects
 
